@@ -1,6 +1,6 @@
 # update-history
 
-Step1: Clone git clone https://github.com/DevTeertha/update-history.git
+Step1: git clone https://github.com/DevTeertha/update-history.git
 <br/>
 Step2: npm install
 <br/>
